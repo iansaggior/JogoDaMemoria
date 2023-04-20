@@ -1,4 +1,4 @@
-# Jogo Da Memoria
+# Jogo Da Memória
 
 Repositório dedicado a um jogo da memória, que foi feito em HTML, JavaScript e CSS.
 
