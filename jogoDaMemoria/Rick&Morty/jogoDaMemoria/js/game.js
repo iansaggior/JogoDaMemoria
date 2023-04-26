@@ -29,7 +29,7 @@ let secondCard = '';
 const checkEndGame = () => {
     const disableCards = document.querySelectorAll('.disable-card');
 
-    if (disableCards.length === 22) {
+    if (disableCards.length === 24) {
         clearInterval(this.loop);
         alert(`Parabéns ${spanPlayer.innerHTML} você ganhou!! Seu tempo foi: ${timer.innerHTML}`);
     }
